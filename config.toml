@@ -1,3 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "https://gustavoborges.net/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Gustavo Borges"
+theme = "hyde-hyde"
+
+[params]
+  themeColor = "theme-base-08"
+[params.social]
+  gravatar = "gustavo.mtborges@gmail.com"
