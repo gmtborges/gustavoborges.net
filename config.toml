@@ -6,4 +6,17 @@ theme = "hyde-hyde"
 [params]
   themeColor = "theme-base-08"
 [params.social]
+  twitter = "gustavomtborges"
+  github = "gustavomtborges"
   gravatar = "gustavo.mtborges@gmail.com"
+
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  identifier = "blog"
+  url = "/blog/"
+[[menu.main]]
+  name = "Sobre"
+  weight = 2
+  identifier = "sobre"
+  url = "/sobre/"
