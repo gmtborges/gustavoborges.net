@@ -1,22 +1,15 @@
 baseURL = "https://gustavoborges.net/"
-languageCode = "en-us"
+languageCode = "pt-br"
 title = "Gustavo Borges"
-theme = "hyde-hyde"
+theme = "hyde"
 
 [params]
   themeColor = "theme-base-08"
-[params.social]
-  twitter = "gustavomtborges"
-  github = "gustavomtborges"
-  gravatar = "gustavo.mtborges@gmail.com"
+  description = "Desenvolvedor de Software, goiano. Aqui você encontra meus pensamentos e posts técnicos"
 
-[[menu.main]]
-  name = "Blog"
-  weight = 1
-  identifier = "blog"
-  url = "/blog/"
-[[menu.main]]
-  name = "Sobre"
-  weight = 2
-  identifier = "sobre"
-  url = "/sobre/"
+[Menus]
+  main = [ 
+    {Name = "Início", URL = "/", weight = 1},
+    {Name = "Blog", URL = "/blog"},
+    {Name = "Sobre", URL = "/sobre"}
+  ]
