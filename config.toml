@@ -10,6 +10,8 @@ theme = "hyde"
 [Menus]
   main = [ 
     {Name = "Início", URL = "/", weight = 1},
-    {Name = "Blog", URL = "/blog"},
-    {Name = "Sobre", URL = "/sobre"}
+    {Name = "Blog", URL = "/blog", weight = 2},
+    {Name = "Sobre", URL = "/sobre", weight = 3},
+    {Name = "Twitter", URL = "https://twitter.com/gustavomtborges"},
+    {Name = "Github", URL = "https://github.com/gustavomtborges"}
   ]
