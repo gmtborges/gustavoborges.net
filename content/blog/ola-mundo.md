@@ -21,3 +21,9 @@ Elixir, espero que pague os boletos do futuro.
   IO.puts("Olá, Mundo")
 ```
 
+Dart, não me decepcione dessa vez Google.
+```
+  main() {
+    print("Olá, Mundo");
+  }
+```
