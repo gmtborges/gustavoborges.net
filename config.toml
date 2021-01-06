@@ -11,7 +11,7 @@ theme = "hyde"
   main = [ 
     {Name = "Início", URL = "/", weight = 1},
     {Name = "Blog", URL = "/blog", weight = 2},
-    {Name = "Sobre", URL = "/sobre", weight = 3}
+    {Name = "CV", URL = "/cv", weight = 3}
   ]
 
   external = [
