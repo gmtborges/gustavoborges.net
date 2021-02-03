@@ -9,7 +9,7 @@ Ter certeza que faço parte de um todo maior, que vai impactar pessoas no sentid
 
 **Quais seus sonhos?**
 
-Que pessoas do bem possam estar no comando de nossa nação. Que mundo tenha menos egoísmo.
+Que pessoas do bem possam estar no comando de nossa nação. Que o mundo tenha menos egoísmo.
 
 **No que você acredita?**
 
