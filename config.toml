@@ -5,7 +5,7 @@ theme = "hyde"
 
 [params]
   themeColor = "theme-base-08"
-  description = "Desenvolvedor de Software, goiano. Aqui você encontra meus pensamentos e posts técnicos"
+  description = "Desenvolvedor de Software, goiano. Um dia de cada vez"
 
 [Menus]
   main = [ 
