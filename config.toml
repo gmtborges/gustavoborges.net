@@ -1,6 +1,6 @@
-baseURL = "https://gustavoborges.net/"
+baseURL = "https://gustavomtborges.com.br/"
 languageCode = "pt-br"
-title = "Gustavo Borges"
+title = "Gustavo Martins T. Borges"
 theme = "hyde"
 
 [params]
